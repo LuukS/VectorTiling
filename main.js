@@ -9,7 +9,7 @@ var map = new mapboxgl.Map({
         style: 'style.json',
         hash: true,
         zoom: 11,
-        pitch: 90,
-        bearing: 90,
+        pitch: 20,
+        bearing: 0,
         center: [ 5.24163, 52.36438]
     });
